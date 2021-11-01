@@ -6,7 +6,7 @@ require_once '../models/database_connect.php';
     $from = '';
     $err_to = '';
     $to = '';
-    $err_select = '';
+    $err_select = ''
     $err_date = '';
     $ddate = '';
     $has_error=false;
